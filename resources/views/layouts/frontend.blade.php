@@ -45,8 +45,8 @@
                   Language
                 </a>
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="lang/en" id="en">English</a>
-                  <a class="dropdown-item" href="lang/cy" id="zh">Cymru</a>
+                  <a class="dropdown-item" href="/lang/en" id="en">English</a>
+                  <a class="dropdown-item" href="/lang/cy" id="cy">Cymru</a>
                 </div>
               </li>
             </ul>

@@ -31,7 +31,7 @@
                 <a class="nav-link" href="#">{{ __("navbar.events")}}</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">{{ __("navbar.resources")}}</a>
+                <a class="nav-link" href="/resources">{{ __("navbar.resources")}}</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">{{ __("navbar.about")}}</a>

@@ -1,0 +1,10 @@
+{
+	"navbar.home": "Home",
+	"navbar.news": "News",
+	"navbar.events": "Events",
+	"navbar.resources": "Resources",
+	"navbar.about": "About Us",
+  "resources.title": "Resources",
+  "resources.description": "There are a number of exciting resources developed allowing you to learn all about Computer Science at your own pace, or alternatively your teacher/educator could download to use in school/college or at your Technoclub. Each resource has different documents, including top tips and workbooks that you can gradually work through at your own pace, or alternatively your teacher/educator can use the other documents to teach the workshops in school/college.",
+  "resources.leveldescription" : "The resources are graded 1-3 in terms of level of difficulty, so why not set a challenge and start the journey now?"
+}
